@@ -136,7 +136,7 @@ else:
     print(f"Average price (simple): ${avg:.2f}")
 ```
 
-AI Explanation:
+# AI Explanation:
 The script computes absolute and percent differences (relative to the mean of the two prices), flags divergence beyond 0.5%, and prints a simple arithmetic mean as a quick fallback.
 
 # Stage 3: Suggest Insights or Next Steps
